@@ -1,4 +1,4 @@
-// script.js
+
 
 // Get references
 const input = document.getElementById("taskInput");
